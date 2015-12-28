@@ -1,0 +1,95 @@
+objects.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fireball1
+  rotate: false
+  xy: 86, 2
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+fireball2
+  rotate: false
+  xy: 2, 2
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+fireball3
+  rotate: false
+  xy: 44, 2
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 329, 2
+  size: 360, 40
+  orig: 360, 40
+  offset: 0, 0
+  index: -1
+spiderdead
+  rotate: false
+  xy: 596, 111
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+spiderfall
+  rotate: false
+  xy: 820, 111
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+spiderjump
+  rotate: false
+  xy: 708, 111
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+spiderstand
+  rotate: false
+  xy: 484, 111
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+test1
+  rotate: false
+  xy: 262, 2
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+test2
+  rotate: false
+  xy: 128, 2
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+test3
+  rotate: false
+  xy: 195, 2
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+trapdoorclose
+  rotate: false
+  xy: 2, 44
+  size: 480, 65
+  orig: 480, 65
+  offset: 0, 0
+  index: -1
+trapdooropen
+  rotate: false
+  xy: 2, 111
+  size: 480, 65
+  orig: 480, 65
+  offset: 0, 0
+  index: -1

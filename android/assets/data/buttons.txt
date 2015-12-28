@@ -1,0 +1,67 @@
+buttons.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dropbutton
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+highscoresbutton
+  rotate: false
+  xy: 132, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+homebutton
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jumpbutton
+  rotate: false
+  xy: 2, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+leaderboardbutton
+  rotate: false
+  xy: 132, 132
+  size: 282, 80
+  orig: 282, 80
+  offset: 0, 0
+  index: -1
+loginbutton
+  rotate: false
+  xy: 2, 262
+  size: 165, 65
+  orig: 165, 65
+  offset: 0, 0
+  index: -1
+logoutbutton
+  rotate: false
+  xy: 169, 262
+  size: 165, 65
+  orig: 165, 65
+  offset: 0, 0
+  index: -1
+playbutton
+  rotate: false
+  xy: 336, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sharebutton
+  rotate: false
+  xy: 2, 392
+  size: 144, 80
+  orig: 144, 80
+  offset: 0, 0
+  index: -1

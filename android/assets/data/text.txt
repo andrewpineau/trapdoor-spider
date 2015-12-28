@@ -1,0 +1,18 @@
+text.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gameover
+  rotate: false
+  xy: 2, 2
+  size: 357, 37
+  orig: 360, 40
+  offset: 0, 3
+  index: -1
+newhighscore
+  rotate: false
+  xy: 2, 41
+  size: 323, 22
+  orig: 324, 30
+  offset: 0, 6
+  index: -1
